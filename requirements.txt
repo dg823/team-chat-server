@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+gradio
+langchain-groq
+langchain-core
+python-dotenv
+pytest
+httpx
